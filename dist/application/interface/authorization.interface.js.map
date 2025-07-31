@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/application/interface/authorization.interface.ts"],"sourcesContent":["export interface IDecodedToken {\n  personnel_id?: string;\n  user_id: string;\n  email: string;\n}\n"],"names":[],"mappings":"AAAA,WAIC"}
